@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Machine Learning Engineer | Focus: [DL, NLP, or Computer Vision]"
+🔭 I’m done Masters in Electrical Engineering from UET, Lahore, Pakistan.
+🔭 I’ have 5+ years of remote AI experience.
+🌱 I’m currently learning data analytics and exploring about data science field on youtube, linkedin and more.
